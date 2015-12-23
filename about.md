@@ -13,7 +13,7 @@ When Glen and I married, happily The Boulders became a summer gathering spot for
 
 Most cookbooks are all about the food. Though there are many great recipes included, this book is about each and every one of you. You have joined us at The Boulders and enthusiastically answered the dinner bell, someetimes cooking for many more people and many more hours than you anticipated.
 
-At The Boulders we've enjoyed lots of amazing meals, more than a few cocktails, countless bottles of wine, have played [The Game](/Game/2015/12/18/the-game.html) endlessly and all gained a pound or two. Here we've included recipes we've enjoyed together. There is more we might have included, but what we really hope is that this will spark memories of great times in the Maine woods with friends and family.
+At The Boulders we've enjoyed lots of amazing meals, more than a few cocktails, countless bottles of wine, have played [The Game](/game) endlessly and all gained a pound or two. Here we've included recipes we've enjoyed together. There is more we might have included, but what we really hope is that this will spark memories of great times in the Maine woods with friends and family.
 
 It is possible that if you try one of the recipes at home, it may taste differently - perhaps because the cook was distracted while preparing - more like it could be the je ne sais quoi that is a Macon summer vacation at The Boulders. Thank you all for such great meals and memories!
 

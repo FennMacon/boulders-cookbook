@@ -3,6 +3,7 @@ layout: post
 title:  "The Game"
 date:   2015-12-18 15:52:20 -0500
 author: "Carol Macon"
+permalink: /game/index.html
 category: "Game"
 ---
 Serves 2 poor souls a distinct honor and the remaining diners endless joy 
