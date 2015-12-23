@@ -7,7 +7,7 @@ category: "Cocktail"
 ---
 Serves 1 - Repeatedly
 
-Ingredients
+### Ingredients
 
 • 3 fingers vodka
 

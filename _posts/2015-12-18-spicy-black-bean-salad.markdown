@@ -9,7 +9,7 @@ Preparation time: 20 minutes
 
 Refrigeration Time: 2 hours
 
-Ingredients:
+### Ingredients:
 
 • 1 can premium quality black beans - drained and rinsed
 
@@ -27,7 +27,7 @@ Ingredients:
 
 • 1⁄2 teaspoon salt
 
-Directions:
+### Directions:
 
 1. In a large serving bowl, mix: beans, onions, jalapeno and corn
 

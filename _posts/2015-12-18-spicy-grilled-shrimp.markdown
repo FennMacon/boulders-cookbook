@@ -11,7 +11,7 @@ Preparation time:
 
 Refrigeration Time: 30-120 minutes
 
-Ingredients - marinade:
+### Ingredients - marinade:
 
 • 1⁄2 cup olive oil
 
@@ -31,13 +31,13 @@ Ingredients - marinade:
 
 • 1 teaspoon crushed red pepper
 
-Ingredients - additional:
+### Ingredients - additional:
 
 • 36 uncooked jumbo shrimp, peeled, deveined (about 2 pounds)
 
 • Rice - optional
 
-Directions:
+### Directions:
 
 1. In a small bowl, whisk marinade ingredients; divide into:
 

@@ -11,7 +11,7 @@ Preparation time: 30-45 minutes
 
 Freeze time: 6 hours; thaw 45 minutes before serving
 
-Ingredients:
+### Ingredients:
 
 • 7 oz. semisweet chocolate
 
@@ -29,7 +29,7 @@ Ingredients:
 
 • Garnish/crust - pulverized shortbread cookies - OPTIONAL
 
-Tools:
+### Tools:
 
 • Instant read thermometer
 
@@ -37,7 +37,7 @@ Tools:
 
 • 6” round cake pan (or small loaf pan in a pinch)
 
-Directions:
+### Directions:
 
 1. Cut the chocolate into fine pieces and place in a medium bowl and set aside
 

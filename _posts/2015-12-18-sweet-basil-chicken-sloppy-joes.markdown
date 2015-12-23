@@ -9,7 +9,7 @@ Serves 4
 
 Preparation time: 2 hours
 
-Ingredients:
+### Ingredients:
 
 • 5 pounds whole chicken legs
 
@@ -49,7 +49,7 @@ Ingredients:
 
 • 2 tablespoons Caesar dressing
 
-Directions:
+### Directions:
 
 1. Preheat oven to 400 degrees
 

@@ -39,7 +39,7 @@ Topping ingredients:
 
 • 1⁄2 cup softened butter - divide into pats
 
-Tools:
+### Tools:
 
 • Food processor
 
@@ -51,7 +51,7 @@ Tools:
 
 • 1 baking sheet
 
-Directions:
+### Directions:
 
 1. Preheat oven to 400 degrees
 

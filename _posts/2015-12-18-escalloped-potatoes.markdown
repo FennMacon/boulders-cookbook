@@ -11,7 +11,7 @@ Preparation time: 30 minutes
 
 Baking time: 60 minutes
 
-Ingredients:
+### Ingredients:
 • 2-3 long, skinny russet potatoes - peeled
 
 • 1 1⁄2 cups shredded cheddar cheese
@@ -24,13 +24,13 @@ Ingredients:
 
 • Salt and pepper
 
-Tools:
+### Tools:
 
 • Mandolin (paring knife can also be used)
 
 • 8 or 9 inch casserole dish
 
-Directions – 3 layers
+### Directions – 3 layers
 
 1. Preheat oven to 350 degrees
 

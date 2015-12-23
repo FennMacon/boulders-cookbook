@@ -11,7 +11,7 @@ Preparation time: 45 minutes
 
 Baking Time: 1 hour
 
-Ingredients
+### Ingredients
 
 • 2 pounds chicken breast – cut/chunked
 
@@ -39,11 +39,11 @@ Ingredients
 
 • Cumin to taste
 
-Tools:
+### Tools:
 
 • 9 x 12 casserole dish
 
-Directions:
+### Directions:
 
 1. Preheat oven to 300 degrees
 

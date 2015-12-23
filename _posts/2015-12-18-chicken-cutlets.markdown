@@ -11,7 +11,7 @@ Preparation time: 20 minutes
 
 Cooking time: 15 minutes
 
-Ingredients:
+### Ingredients:
 
 • 1 1⁄2 pounds boneless chicken breast - pounded to 1⁄4 inch thick
 
@@ -35,7 +35,7 @@ Ingredients:
 
 • 10 tablespoons olive oil - divided
 
-Directions:
+### Directions:
 
 1. Preheat oven to 400 degrees
 

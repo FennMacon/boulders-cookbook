@@ -11,7 +11,7 @@ Preparation time: 15 minutes
 
 Baking time: 25-35 minutes
 
-Ingredients:
+### Ingredients:
 
 • 2 sticks of butter - room temperature
 
@@ -35,11 +35,11 @@ Ingredients:
 
 • 1 cup pecans or walnuts
 
-Tools:
+### Tools:
 
 • 9 x 13 baking dish
 
-Directions:
+### Directions:
 
 1. Preheat oven to 350 degrees
 

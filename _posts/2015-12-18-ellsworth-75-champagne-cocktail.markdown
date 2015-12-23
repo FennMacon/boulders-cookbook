@@ -9,7 +9,7 @@ Serves 2
 
 Preparation time: 5 minutes
 
-Ingredients:
+### Ingredients:
 
 • 1 lemon peel - cut thinly for garnish 
 
@@ -25,7 +25,7 @@ Ingredients:
 
 • 2 ounces dry, sparkling wine
 
-Directions:
+### Directions:
 
 1. In a cocktail shaker:
 

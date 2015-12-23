@@ -11,7 +11,7 @@ Preparation time: 15 minutes
 
 Baking time: 3 hours
 
-Ingredients:
+### Ingredients:
 
 • 3 pounds beef cubes
 
@@ -25,11 +25,11 @@ Ingredients:
 
 • Rice or noodles
 
-Tools:
+### Tools:
 
 • 7 quart Dutch Oven
 
-Directions:
+### Directions:
 
 • Preheat oven to 350 degrees
 

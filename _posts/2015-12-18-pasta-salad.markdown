@@ -11,7 +11,7 @@ Preparation time: 45 minutes
 
 Refrigeration Time: Until ready to serve
 
-Ingredients:
+### Ingredients:
 
 • 1 box spiral colored pasta 
 
@@ -33,7 +33,7 @@ Ingredients:
 
 • Salt, pepper and Mrs. Dash
 
-Directions:
+### Directions:
 
 1. Cook, drain and cool the pasta and broccoli
 

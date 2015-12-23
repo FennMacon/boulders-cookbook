@@ -11,7 +11,7 @@ Preparation time: 10 minutes
 
 Baking time: 30 minutes
 
-Ingredients:
+### Ingredients:
 
 • 2 1⁄2 cups granulated white sugar divided as follows: 2 cups for the batter and 1⁄2 cup for topping batter
 
@@ -27,13 +27,13 @@ Ingredients:
 
 • 1 teaspoon baking soda
 
-Tools:
+### Tools:
 
 • 9 x 12 baking pan
 
 • Ziploc bag
 
-Directions:
+### Directions:
 
 1. Preheat the oven to 375 degrees
 

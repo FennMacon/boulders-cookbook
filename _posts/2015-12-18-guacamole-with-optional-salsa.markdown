@@ -9,7 +9,7 @@ Yields one large serving bowl
 
 Preparation time: 60-75 minutes
 
-Ingredients - guacamole:
+### Ingredients - guacamole:
 
 • 9 ripe Haas avocados
 
@@ -31,7 +31,7 @@ Ingredients - guacamole:
 
 • Tostitos Scoops
 
-Ingredients - salsa:
+### Ingredients - salsa:
 
 • 4-6 jalapenos
 
@@ -41,13 +41,13 @@ Ingredients - salsa:
 
 • Salt
 
-Tools:
+### Tools:
 
 • Mortar and pestle if available
 
 • Blender
 
-Directions - guacamole:
+### Directions - guacamole:
 
 1. Avocado
 
@@ -71,7 +71,7 @@ Directions - guacamole:
 
 4. Add the ingredients/paste to the bowl of avocados; mix the ingredients without mashing so the avocados are left semi-firm
 
-Directions - salsa:
+### Directions - salsa:
 
 1. Boil a medium saucepan of water
 

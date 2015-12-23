@@ -11,7 +11,7 @@ Preparation time: 15 minutes
 
 Baking time: 25-35 minutes
 
-Ingredients:
+### Ingredients:
 
 • 5-7 pound beef tenderloin - trimmed
 
@@ -21,7 +21,7 @@ Ingredients:
 
 • 3⁄4 teaspoon cracked black pepper
 
-Tools:
+### Tools:
 
 • Wire rack
 
@@ -31,7 +31,7 @@ Tools:
 
 • Aluminum foil
 
-Directions:
+### Directions:
 
 1. Preheat oven to 425 degrees
 

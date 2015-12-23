@@ -7,7 +7,7 @@ category: "Cocktail"
 ---
 Serves 1 large mug
 
-Ingredients:
+### Ingredients:
 
 • 4 fingers Mount Gay rum
 

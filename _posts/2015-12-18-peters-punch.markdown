@@ -9,7 +9,7 @@ Yields 1 gallon
 
 Preparation time: 10 minutes
 
-Ingredients:
+### Ingredients:
 
 • 1 bottle Mount Gay rum – 750 milliliter size
 
@@ -25,11 +25,11 @@ Ingredients:
 
 • 2 oranges
 
-Tools:
+### Tools:
 
 • One-gallon pitcher
 
-Directions:
+### Directions:
 
 1. Fill pitcher half full of ice
 

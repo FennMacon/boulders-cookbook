@@ -11,7 +11,7 @@ Preparation time: 15 minutes
 
 Baking time: 12-14 minutes
 
-Ingredients:
+### Ingredients:
 
 • 1 1⁄2 cups flour
 
@@ -39,7 +39,7 @@ Ingredients:
 
 • 1 cup dried sweet cherries
 
-Directions:
+### Directions:
 
 1. Preheat oven to 350 degrees
 

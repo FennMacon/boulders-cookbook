@@ -9,7 +9,7 @@ Yields approximately 1 cup
 
 Preparation time: 20 minutes
 
-Ingredients:
+### Ingredients:
 
 • 1 cup sugar
 
@@ -21,11 +21,11 @@ Ingredients:
 
 • 1⁄2 cup water (optional but recommended for caramel beginners)
 
-Tools:
+### Tools:
 
 • Heavy-bottomed saucepan
 
-Directions:
+### Directions:
 
 1. In the saucepan, heat sugar and water over medium heat - do not stir! Wait until at least 70 percent of the sugar is melted, give the pan a shake and stir with a metal whisk
 

@@ -11,7 +11,7 @@ Preparation time: 20 minutes
 
 Refrigeration time: At least 6 hours
 
-Ingredients:
+### Ingredients:
 
 • 4 salmon filets
 
@@ -21,11 +21,11 @@ Ingredients:
 
 • 3 tablespoons Dijon mustard
 
-Tools:
+### Tools:
 
 • 1 baking dish
 
-Directions:
+### Directions:
 
 1. Simmer and stir together soy sauce, honey (or brown sugar), and mustard until well combined
 

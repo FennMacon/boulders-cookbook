@@ -45,7 +45,7 @@ Boulders Sauce ingredients:
 
 • 1⁄4 cup bacon bits - best quality
 
-Directions:
+### Directions:
 
 1. Prepare lobster using Noni’s lobster roll recipe - omit the mayonnaise and rolls
 

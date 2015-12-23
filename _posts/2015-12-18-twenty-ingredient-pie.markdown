@@ -15,7 +15,7 @@ Cooling time: crust minimum 2 hours
 
 Baking time: approximately 2 hours
 
-Crust ingredients:
+### Crust ingredients:
 
 • 1 1⁄2 cups of all-purpose flour 
 
@@ -29,7 +29,7 @@ Crust ingredients:
 
 • 1⁄3 cup of ice water mixed with 1 tablespoon of distilled white vinegar
 
-Filling ingredients:
+### Filling ingredients:
 
 • 1⁄2 cup golden raisins
 
@@ -59,7 +59,7 @@ Filling ingredients:
 
 • Pinch of kosher salt
 
-Topping ingredients:
+### Topping ingredients:
 
 • 1⁄2 cup all-purpose flour
 
@@ -77,7 +77,7 @@ Topping ingredients:
 
 • 1 stick of unsalted butter - chilled and cubed
 
-Tools:
+### Tools:
 
 • Rolling pin
 
@@ -85,7 +85,7 @@ Tools:
 
 • Pie weights
 
-Directions – crust:
+### Directions – crust:
 
 1. In a medium bowl, gently combine the flours, salt and butter
 
@@ -119,7 +119,7 @@ Directions – crust:
 
 16. Chill no more than 1 day - if required
 
-Directions – filling:
+### Directions – filling:
 
 1. Preheat the oven to 375 degrees
 

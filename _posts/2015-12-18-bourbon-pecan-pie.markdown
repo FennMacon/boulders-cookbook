@@ -45,7 +45,7 @@ Filling ingredients:
 
 • 1⁄2 cup semisweet chocolate chips (optional)
 
-Tools:
+### Tools:
 
 1. 9 inch pie plate
 
@@ -53,7 +53,7 @@ Tools:
 
 3. Baking sheet
 
-Directions - crust:
+### Directions - crust:
 
 1. Preheat the oven to 350 degrees; position a rack on the lower third of the oven
 
@@ -61,7 +61,7 @@ Directions - crust:
 
 3. Press the dough evenly over the bottom and sides of a 9 inch pie plate (edge crimping optional)
 
-Directions - filling:
+### Directions - filling:
 
 1. Line a baking sheet with parchment
 

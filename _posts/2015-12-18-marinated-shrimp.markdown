@@ -11,7 +11,7 @@ Preparation time: <1 Hour
 
 Marinate time: 6-12 Hours
 
-Ingredients:
+### Ingredients:
 
 • 2 pounds shrimp
 
@@ -43,11 +43,11 @@ Ingredients:
 
 • 1 can of beer
 
-Tools:
+### Tools:
 
 • Toothpicks
 
-Directions:
+### Directions:
 
 1. Rub a large bowl with garlic
 

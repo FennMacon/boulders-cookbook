@@ -9,7 +9,7 @@ Yields 1 cup
 
 Preparation time: 20 minutes
 
-Ingredients:
+### Ingredients:
 
 • 1 red onion - slice VERY thinly
 
@@ -25,7 +25,7 @@ Ingredients:
 
 • Black pepper
 
-Directions:
+### Directions:
 
 1. In a small container with a lid, combine all of the ingredients and mix well
 

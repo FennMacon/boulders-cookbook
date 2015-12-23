@@ -7,7 +7,7 @@ category: "Cocktail"
 ---
 Serves one
 
-Ingredients
+### Ingredients
 
 • 2 parts tequila
 

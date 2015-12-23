@@ -11,7 +11,7 @@ Preparation time: 15 minutes
 
 Baking time: 30 minutes
 
-Ingredients:
+### Ingredients:
 
 • 2 jars marinated artichoke hearts (approximately 7 ounces each) - drained
 
@@ -21,11 +21,11 @@ Ingredients:
 
 • Dash of Tabasco
 
-Tools:
+### Tools:
 
 • Small ovenproof casserole dish
 
-Directions:
+### Directions:
 
 1. Preheat oven to 350 degrees
 

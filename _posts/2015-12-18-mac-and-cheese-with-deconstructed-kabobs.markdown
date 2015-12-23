@@ -49,13 +49,13 @@ Kabob ingredients:
 
 • Salt and Pepper
 
-Tools:
+### Tools:
 
 • Large stock/pasta pot, large skillet, large saucepan
 
 • Food processor
 
-Directions - mac and cheese:
+### Directions - mac and cheese:
 
 1. Bring a large pot of water to a boil
 
@@ -75,7 +75,7 @@ Directions - mac and cheese:
 
 9. Stir in the shredded cheese and add the sausage and mushrooms and serve (sausage and mushrooms can also be served on the side)
 
-Directions - kabobs
+### Directions - kabobs
 
 1. Start the grill at a high temperature
 

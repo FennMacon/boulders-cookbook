@@ -11,7 +11,7 @@ Preparation time: 30-45 minutes
 
 Baking time: 15 minutes
 
-Ingredients:
+### Ingredients:
 
 • 1 package of pita bread (whole wheat is preferred)
 
@@ -37,7 +37,7 @@ Ingredients:
 
 (Note: Jamie Macon’s variation uses 1⁄2 mayonnaise and 1⁄2 Stonewall Kitchen’s BBQ Aioli)
 
-Directions:
+### Directions:
 
 1. Mix cheeses together in a separate bowl
 

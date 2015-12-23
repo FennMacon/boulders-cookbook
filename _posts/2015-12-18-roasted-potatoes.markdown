@@ -11,7 +11,7 @@ Preparation time: 10 minutes
 
 Baking time: 30-45 minutes
 
-Ingredients:
+### Ingredients:
 
 • 4 small potatoes - quartered
 
@@ -21,7 +21,7 @@ Ingredients:
 
 • Herbs de Provence
 
-Directions:
+### Directions:
 
 1. Preheat oven to 400 degrees
 

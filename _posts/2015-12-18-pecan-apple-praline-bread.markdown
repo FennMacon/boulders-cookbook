@@ -11,7 +11,7 @@ Preparation time: 30 minutes
 
 Baking time: 60 minutes (60 minutes cooling)
 
-Ingredients:
+### Ingredients:
 
 • 1 1⁄2 cups chopped pecans - divided
 
@@ -37,7 +37,7 @@ Ingredients:
 
 • 1⁄2 cup firmly packed light brown sugar
 
-Tools:
+### Tools:
 
 • Electric Mixer
 
@@ -45,7 +45,7 @@ Tools:
 
 • Aluminum Foil
 
-Directions:
+### Directions:
 
 1. Preheat oven to 350 degrees
 

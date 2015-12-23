@@ -11,7 +11,7 @@ Preparation time: 30 minutes
 
 Baking time: 45 minutes
 
-Ingredients:
+### Ingredients:
 
 • 3 tablespoons unsalted butter - melted
 
@@ -41,13 +41,13 @@ Ingredients:
 
 • 2 tablespoons confectioners sugar
 
-Tools:
+### Tools:
 
 • Electric mixer
 
 • 9 inch round cake pan
 
-Directions - nectarines:
+### Directions - nectarines:
 
 1. Pour the butter into the cake pan – spread evenly including sides
 
@@ -55,7 +55,7 @@ Directions - nectarines:
 
 3. Arrange nectarines in a circle of overlapping slices around the bottom and sides
 
-Directions - cake:
+### Directions - cake:
 
 1. Preheat the oven to 350 degrees
 

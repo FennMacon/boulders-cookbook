@@ -9,7 +9,7 @@ Serves 6-8
 
 Preparation time: 5 hours
 
-Ingredients - meat sauce:
+### Ingredients - meat sauce:
 
 • 8 ounces coarsely ground beef chuck
 
@@ -53,7 +53,7 @@ Ingredients - meat sauce:
 
 • 1/3 cup finely grated parmesan cheese
 
-Ingredients - pasta:
+### Ingredients - pasta:
 
 • 1 gallon water
 
@@ -61,7 +61,7 @@ Ingredients - pasta:
 
 • 1⁄2 pound dry spaghetti
 
-Tools:
+### Tools:
 
 • 8-quart Dutch oven 
 
@@ -69,7 +69,7 @@ Tools:
 
 • Spice bags
 
-Directions - meat sauce:
+### Directions - meat sauce:
 
 
 1. Place the clove and star anise into a small spice bag and set aside

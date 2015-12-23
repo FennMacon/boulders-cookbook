@@ -11,7 +11,7 @@ Serves 4-6
 
 Preparation time: 30 minutes Refrigeration time prior to service: 4-24 hours
 
-Ingredients:
+### Ingredients:
 
 • 4 teaspoons grated lime zest
 
@@ -23,7 +23,7 @@ Ingredients:
 
 • 1⁄4 cup superfine sugar (immediately dissolving – do not use regular sugar)
 
-Directions:
+### Directions:
 
 • Pinch table salt
 

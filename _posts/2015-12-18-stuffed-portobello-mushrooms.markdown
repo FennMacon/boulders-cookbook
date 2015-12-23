@@ -9,7 +9,7 @@ Serves 8-12
 
 Preparation time: 30 minutes
 
-Ingredients:
+### Ingredients:
 
 • 8-10 Portobello mushrooms
 
@@ -19,7 +19,7 @@ Ingredients:
 
 • 8 ounce package shredded provolone or mozzarella cheese
 
-Tools:
+### Tools:
 
 • Tongs or spatula for grilling
 
@@ -27,7 +27,7 @@ Tools:
 
 • Aluminum Foil
 
-Directions:
+### Directions:
 
 1. Preheat oven to 350 degrees
 

@@ -11,7 +11,7 @@ Preparation time: 45 minutes
 
 Baking time: 10-15 minutes
 
-Ingredients:
+### Ingredients:
 
 • 30 phyllo cups (freezer section)
 
@@ -31,11 +31,11 @@ Ingredients:
 
 • Cumin to taste
 
-Tools:
+### Tools:
 
 • Mini-muffin pan
 
-Directions:
+### Directions:
 
 1. Pre-heat oven to 375 degrees
 

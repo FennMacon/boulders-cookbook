@@ -13,7 +13,7 @@ Chilling time: marinade 4-24 hours; salsa 1 hour
 
 Grilling time: 25 minutes
 
-Ingredients - beef:
+### Ingredients - beef:
 
 • 1 1⁄2 pound well-trimmed boneless top round steak
 
@@ -35,7 +35,7 @@ Ingredients - beef:
 
 • Dash of cilantro and lime juice for garnish
 
-Ingredients - salsa:
+### Ingredients - salsa:
 
 • 2 oranges - peeled and cut into 1⁄2” pieces
 

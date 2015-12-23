@@ -9,7 +9,7 @@ Yields 1 cup
 
 Preparation time: 15 minutes
 
-Ingredients:
+### Ingredients:
 
 • 1⁄2 cup extra virgin olive oil (alternative: 1⁄2 extra-virgin and 1⁄2 regular)
 
@@ -27,7 +27,7 @@ Ingredients:
 
 • 1 teaspoon Dijon mustard
 
-Directions:
+### Directions:
 
 1. Combine all ingredients in a blender and blend until smooth or,
 

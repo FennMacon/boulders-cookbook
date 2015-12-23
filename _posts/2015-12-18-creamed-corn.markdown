@@ -9,7 +9,7 @@ Serves 4
 
 Preparation time: 20 minutes
 
-Ingredients:
+### Ingredients:
 • 4 ears fresh corn
 
 • 1⁄2 cup heavy cream
@@ -20,11 +20,11 @@ Ingredients:
 
 • Salt, pepper and garlic powder to taste
 
-Tools:
+### Tools:
 
 • Large skillet or sauté pan
 
-Directions:
+### Directions:
 
 1. Cut the corn off the cob into the skillet/pan
 

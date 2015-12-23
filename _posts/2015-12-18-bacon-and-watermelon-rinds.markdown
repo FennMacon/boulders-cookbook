@@ -11,7 +11,7 @@ Preparation time: 20 minutes
 
 Baking time: 30-40 minutes
 
-Ingredients:
+### Ingredients:
 
 • 2 jars pickled watermelon rinds – drained
 
@@ -19,11 +19,11 @@ Ingredients:
 
 • Club crackers
 
-Tools:
+### Tools:
 
 • Baking sheet
 
-Directions:
+### Directions:
 
 1. Preheat oven to 350 degrees
 

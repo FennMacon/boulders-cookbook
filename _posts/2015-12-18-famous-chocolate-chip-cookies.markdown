@@ -11,7 +11,7 @@ Preparation time: 10 minutes and freeze overnight
 
 Baking time: 8 minutes
 
-Ingredients:
+### Ingredients:
 
 • 2 1⁄4 cup all-purpose flour
 
@@ -33,11 +33,11 @@ Ingredients:
 
 • 1 cup chopped nuts (if omitting nuts – suggested! - add 1 to 2 tablespoons of all-purpose flour)
 
-Tools:
+### Tools:
 
 • 2 cookie sheets
 
-Directions - Day 1:
+### Directions - Day 1:
 
 1. In a small mixing bowl combine: flour and baking soda
 
@@ -57,7 +57,7 @@ Directions - Day 1:
 
 6. Freeze uncovered overnight
 
-Directions - Day 2:
+### Directions - Day 2:
 
 1. Preheat oven to 375 degrees
 

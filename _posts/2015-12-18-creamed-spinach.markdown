@@ -11,7 +11,7 @@ Preparation time: 15 minutes
 
 Baking time: 45 minutes
 
-Ingredients:
+### Ingredients:
 
 • 20 ounces frozen chopped spinach - cooked and drained
 
@@ -31,13 +31,13 @@ Ingredients:
 
 • 3 eggs – well beaten
 
-Tools:
+### Tools:
 
 • 8 inch square baking dish
 
 • Cooking spray
 
-Directions:
+### Directions:
 
 1. Preheat oven to 350 degrees
 

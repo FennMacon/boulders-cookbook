@@ -11,7 +11,7 @@ Preparation time: 30-45 minutes
 
 Refrigeration Time: Overnight
 
-Ingredients:
+### Ingredients:
 
 • 1 head iceberg lettuce - shredded
 
@@ -27,7 +27,7 @@ Ingredients:
 
 • 1 large bottle Ranch dressing
 
-Tools:
+### Tools:
 
 • Large mixing bowl
 
@@ -35,7 +35,7 @@ Tools:
 
 • Saran Wrap
 
-Directions:
+### Directions:
 
 1. In a large serving dish, layer twice as follows: lettuce, beans, scallions, tomatoes, cheese, Fritos
 

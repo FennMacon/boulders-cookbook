@@ -9,7 +9,7 @@ Yields one large bowl
 
 Preparation time: About an hour
 
-Ingredients:
+### Ingredients:
 
 • 6 tomatoes (de-pulped and chopped)
 
@@ -35,7 +35,7 @@ Ingredients:
 
 • Tostitos Scoops
 
-Directions:
+### Directions:
 
 1. In a mixing large bowl:
 

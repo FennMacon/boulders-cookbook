@@ -9,7 +9,7 @@ Yields 2 cups
 
 Preparation time: 30 minutes
 
-Ingredients:
+### Ingredients:
 
 • 1 tablespoon unsalted butter
 
@@ -27,7 +27,7 @@ Ingredients:
 
 • Cracked black pepper
 
-Directions:
+### Directions:
 
 1. Heat the butter and olive oil in a large skillet over low heat until butter melts
 

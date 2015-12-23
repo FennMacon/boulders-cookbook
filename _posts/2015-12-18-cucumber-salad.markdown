@@ -11,7 +11,7 @@ Preparation time: 30 minutes
 
 Refrigerate Time: 1 hour (minimum)
 
-Ingredients:
+### Ingredients:
 • 2 small cucumbers - thinly sliced
 
 • 1⁄2 small red onion - thinly sliced
@@ -26,7 +26,7 @@ Ingredients:
 
 • 1⁄2 teaspoon ground black pepper
 
-Directions:
+### Directions:
 
 1. In a medium bowl, toss together the vegetables
 

@@ -9,7 +9,7 @@ Yields 2 cups
 
 Preparation time: 20 minutes
 
-Ingredients:
+### Ingredients:
 
 • 2 ounces Baker’s unsweetened chocolate
 
@@ -21,11 +21,11 @@ Ingredients:
 
 • 1⁄2 teaspoon vanilla extract 
 
-Tools:
+### Tools:
 
 • Double Boiler
 
-Directions:
+### Directions:
 
 1. Combine the chocolate, sugar and heavy cream in the top of a double boiler and cook until the sugar is dissolved
 

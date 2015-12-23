@@ -33,13 +33,13 @@ Streusel topping ingredients:
 
 • 1⁄2 cup cold butter, cut into small pieces
 
-Tools:
+### Tools:
 
 • 15 x 10 x 1 cookie sheet
 
 • Rolling pin
 
-Directions:
+### Directions:
 
 1. Preheat oven to 425 degrees.
 

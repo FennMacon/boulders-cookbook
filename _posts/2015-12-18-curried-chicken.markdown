@@ -9,7 +9,7 @@ Serves 10-12
 
 Preparation time: 60 minutes
 
-Ingredients:
+### Ingredients:
 
 • 6-8 cups chicken
 
@@ -31,7 +31,7 @@ Ingredients:
 
 • Carr’s flavored crackers/Melba Toast
 
-Directions:
+### Directions:
 
 1. Cook chicken:
 

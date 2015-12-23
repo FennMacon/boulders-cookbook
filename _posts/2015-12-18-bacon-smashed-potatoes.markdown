@@ -11,7 +11,7 @@ Preparation time: 30 minutes
 
 Cooking time: 20-30 minutes
 
-Ingredients:
+### Ingredients:
 
 • 2 pounds firm, yellow fleshed (e.g., Yukon Gold) potatoes - scrubbed and peeled
 
@@ -27,7 +27,7 @@ Ingredients:
 
 • 6 pieces well cooked bacon - chopped
 
-Directions:
+### Directions:
 
 1. Place the potatoes in a large pot and fill with cold water to cover by at least an inch; add 1 tablespoon coarse sea salt for each quart of water
 

@@ -11,7 +11,7 @@ Preparation time: 10 minutes
 
 Baking time: 40-45 minutes
 
-Ingredients:
+### Ingredients:
 
 • 2 bunches beets
 
@@ -21,13 +21,13 @@ Ingredients:
 
 • Salt and pepper
 
-Tools:
+### Tools:
 
 • Aluminum foil
 
 • Baking sheet
 
-Directions:
+### Directions:
 
 1. Preheat oven to 350 degrees
 

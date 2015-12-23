@@ -11,7 +11,7 @@ Preparation time: 40 minutes
 
 Refrigeration time: 4 hours
 
-Ingredients:
+### Ingredients:
 
 • 2 cups graham cracker crumbs
 
@@ -29,13 +29,13 @@ Ingredients:
 
 • 1 cup fresh raspberries
 
-Tools:
+### Tools:
 
 • Electric mixer
 
 • 9 inch springform pan
 
-Directions:
+### Directions:
 
 1. Preheat oven to 325 degrees
 

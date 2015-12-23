@@ -9,7 +9,7 @@ Preparation time: 45 minutes
 
 Refrigeration time: at least an hour
 
-Ingredients:
+### Ingredients:
 
 • 8 hard boiled eggs - peeled and chopped
 
@@ -27,7 +27,7 @@ Ingredients:
 
 • Miracle Whip for consistency
 
-Directions:
+### Directions:
 
 1. Combine all ingredients whilst warm so that the potatoes absorb some of the dressing
 

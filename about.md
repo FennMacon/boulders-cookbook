@@ -18,4 +18,3 @@ At The Boulders we've enjoyed lots of amazing meals, more than a few cocktails, 
 It is possible that if you try one of the recipes at home, it may taste differently - perhaps because the cook was distracted while preparing - more like it could be the je ne sais quoi that is a Macon summer vacation at The Boulders. Thank you all for such great meals and memories!
 
 Noni Macon
-

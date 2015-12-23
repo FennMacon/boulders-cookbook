@@ -11,7 +11,7 @@ Preparation time: 45 minutes
 
 Freeze Time: At least 4 hours
 
-Ingredients:
+### Ingredients:
 
 • 1 graham cracker pie crust (chocolate is an acceptable alternative) - save the plastic cover
 
@@ -23,7 +23,7 @@ Ingredients:
 
 • 1 bag of Oreo cookies - smashed and divided as follows: 3⁄4 for the pie and 1⁄4 for the garnish
 
-Directions:
+### Directions:
 
 1. Have all ingredients ready, as the steps require critical timing!!
 

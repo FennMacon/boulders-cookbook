@@ -9,7 +9,7 @@ Serves 4-6 people
 
 Preparation time: 60 minutes
 
-Ingredients:
+### Ingredients:
 
 • 2 heads cauliflower - cut-up and boiled in salt water until soft
 
@@ -26,11 +26,11 @@ Ingredients:
 
 • Salt and pepper to taste
 
-Tools:
+### Tools:
 
 • Food Processor
 
-Directions:
+### Directions:
 
 1. Preheat oven to 400 degrees
 

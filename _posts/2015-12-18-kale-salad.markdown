@@ -9,7 +9,7 @@ Serves 1
 
 Preparation Time: 45-60 minutes
 
-Ingredients:
+### Ingredients:
 
 • 2 heaping handfuls shredded kale
 
@@ -29,7 +29,7 @@ Ingredients:
 
 • Optional: 2 cups grilled or sautéed chicken
 
-Directions:
+### Directions:
 
 1. Bring wild rice and chicken stock to a boil; drop to a simmer for 50 minutes or until rice has bloomed and is tender
 

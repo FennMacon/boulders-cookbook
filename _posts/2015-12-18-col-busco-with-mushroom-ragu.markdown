@@ -9,7 +9,7 @@ Serves 4-6
 
 Preparation time: 45 minutes
 
-Ingredients:
+### Ingredients:
 
 • 1⁄4 cup olive oil
 
@@ -35,13 +35,13 @@ Ingredients:
 
 • 1 pound Fusilli Col Busco pasta (aka Fusilli Lunghi)
 
-Tools:
+### Tools:
 
 • Large skillet pan
 
 • Pasta pot
 
-Directions:
+### Directions:
 
 1. In the skillet pan, heat oil on medium heat and:
 

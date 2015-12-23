@@ -9,7 +9,7 @@ Yields one large serving bowl
 
 Preparation time: 20 minutes
 
-Ingredients:
+### Ingredients:
 
 • Orville Redenbacher’s white popping corn - no substitutions
 
@@ -19,7 +19,7 @@ Ingredients:
 
 • Salt
 
-Tools:
+### Tools:
 
 • Large saucepan with lid
 
@@ -27,7 +27,7 @@ Tools:
 
 • Hot pad
 
-Directions:
+### Directions:
 
 1. Melt butter - 25 seconds in a microwave and add 2 tablespoons of olive oil
 

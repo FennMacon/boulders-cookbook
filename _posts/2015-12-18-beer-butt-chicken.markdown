@@ -11,7 +11,7 @@ Preparation time: 30 minutes
 
 Grilling time: 3 hours
 
-Ingredients:
+### Ingredients:
 
 • 1 whole chicken - 4 pounds
 
@@ -25,13 +25,13 @@ Ingredients:
 
 • 1 can beer
 
-Tools:
+### Tools:
 
 • Outdoor grill
 
 • Disposable baking sheet
 
-Directions:
+### Directions:
 
 1. Preheat an outdoor grill to low heat
 

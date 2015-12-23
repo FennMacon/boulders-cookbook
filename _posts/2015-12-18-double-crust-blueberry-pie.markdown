@@ -31,7 +31,7 @@ Filling ingredients:
 
 • 1 tablespoon lemon juice
 
-Tools:
+### Tools:
 
 • Food processor
 
@@ -41,7 +41,7 @@ Tools:
 
 • Baking sheet
 
-Directions:
+### Directions:
 
 1. Preheat oven to 400 degrees
 

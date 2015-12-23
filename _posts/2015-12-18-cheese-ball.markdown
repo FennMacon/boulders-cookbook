@@ -11,7 +11,7 @@ Preparation time: 30-45 minutes
 
 Refrigeration Time: 30 minutes
 
-Ingredients:
+### Ingredients:
 
 • 1 8 ounce package cream cheese, softened
 
@@ -23,7 +23,7 @@ Ingredients:
 
 • 1⁄4 cup of packaged dried cranberries or craisins
 
-Directions:
+### Directions:
 
 1. In a mixing bowl, combine: softened cream cheese, sour cream, shredded cheese
 

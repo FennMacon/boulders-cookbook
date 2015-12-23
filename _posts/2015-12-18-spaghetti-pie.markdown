@@ -11,7 +11,7 @@ Preparation time: 1 hour
 
 Baking time: 35 - 45 minutes
 
-Ingredients:
+### Ingredients:
 
 • 6 ounces - angel hair spaghetti (or 8 ounces of linguini)
 
@@ -49,11 +49,11 @@ Ingredients:
 
 • 1 cup shredded mozzarella cheese
 
-Tools:
+### Tools:
 
 • 2-10 inch pie plates
 
-Directions:
+### Directions:
 
 1. Preheat the oven to 350 degrees
 

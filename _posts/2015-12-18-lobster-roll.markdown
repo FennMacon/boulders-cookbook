@@ -13,7 +13,7 @@ Refrigeration time: at least 2 hours
 
 Frying time: 10 minutes
 
-Ingredients:
+### Ingredients:
 
 • 3 cups diced lobster meat
 
@@ -29,11 +29,11 @@ Ingredients:
 
 • 4 top-spilt hot dog rolls
 
-Tools:
+### Tools:
 
 • Large fry pan/skillet
 
-Directions:
+### Directions:
 
 1. In a bowl, toss the lobster meat with the dressing and refrigerate for at least 2 hours
 

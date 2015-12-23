@@ -11,7 +11,7 @@ Preparation time: 45 minutes (can be made 4 hours before serving)
 
 Refrigeration time: 30 minutes (minimum)
 
-Ingredients:
+### Ingredients:
 
 • 1⁄3 cup whole milk ricotta cheese
 
@@ -29,11 +29,11 @@ Ingredients:
 
 • 1 tablespoon lemon juice
 
-Tools:
+### Tools:
 
 • Electric mixer
 
-Directions - cream:
+### Directions - cream:
 
 1. In a medium bowl, stir and blend the ricotta and 2 tablespoons of cream
 
@@ -45,7 +45,7 @@ Directions - cream:
 
 5. Cover and refrigerate
 
-Directions - berries:
+### Directions - berries:
 
 1. Toss the berries, sugar, and lemon juice in a medium bowl to combine
 

@@ -11,7 +11,7 @@ Preparation time: 3 hours
 
 Baking time: 15 minutes
 
-Ingredients:
+### Ingredients:
 
 • Lobster meat removed from two 1 1⁄2 pound lobsters (see Note)
 
@@ -49,13 +49,13 @@ Ingredients:
 
 • Buttered bread crumbs
 
-Tools:
+### Tools:
 
 • Double boiler
 
 • Baking sheet
 
-Directions in the following order:
+### Directions in the following order:
 
 1. Preheat the oven to 400 degrees
 

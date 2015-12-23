@@ -11,7 +11,7 @@ Preparation time: 30 minutes
 
 Baking time: 30-45 minutes
 
-Ingredients:
+### Ingredients:
 
 • 2 pounds veal cutlets
 
@@ -39,7 +39,7 @@ Ingredients:
 
 • 1 tablespoon butter
 
-Directions:
+### Directions:
 
 1. Beat eggs, salt, pepper and add crumbs
 

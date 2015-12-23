@@ -9,7 +9,7 @@ Serves: 10-12
 
 Preparation time: 60 minutes
 
-Ingredients:
+### Ingredients:
 
 • 1 pound orzo pasta 
 
@@ -25,11 +25,11 @@ Ingredients:
 
 • 2 garlic cloves - minced
 
-Tools:
+### Tools:
 
 • Large skillet
 
-Directions:
+### Directions:
 
 1. Heat the butter in the skillet until it is coated
 

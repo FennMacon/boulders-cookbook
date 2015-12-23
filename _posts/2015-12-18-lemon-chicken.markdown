@@ -11,7 +11,7 @@ Preparation time: 15 minutes plus grilling
 
 Marinating time: overnight
 
-Ingredients:
+### Ingredients:
 
 • 4 each: chicken legs, thighs and halved breasts
 
@@ -23,7 +23,7 @@ Ingredients:
 
 • Garlic powder, salt and pepper to taste
 
-Directions:
+### Directions:
 
 1. Divide the uncooked chicken - legs/thighs and breasts - and place each in a Ziploc
 

@@ -31,11 +31,11 @@ Cocktail ingredients:
 
 • 1 jigger dry sparkling wine
 
-Tools:
+### Tools:
 
 • Cocktail shaker
 
-Directions – simple syrup:
+### Directions – simple syrup:
 
 1. Boil together sugar and water until well combined
 
@@ -51,7 +51,7 @@ Directions – simple syrup:
 
 7. Store remaining mixture
 
-Directions – cocktail:
+### Directions – cocktail:
 
 1. In a cocktail shaker:
 
