@@ -1,0 +1,16 @@
+<h1 class="page-heading">{%if include.title%}{{include.title}} {%else%} {{include.category}} {% endif %}</h1>
+
+<ul class="post-list">
+  {% assign sorted_pages = (site.categories[include.category] | sort: 'title') %}
+  {% for post in sorted_pages %}
+    <li>
+      <h2>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+          <em>{{ post.title }}</em>
+        </a>
+        by {{ post.author }}
+        
+      </h2>
+    </li>
+  {% endfor %}
+</ul>
