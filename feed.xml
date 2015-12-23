@@ -6,8 +6,8 @@
 </description>
     <link>http://boulderscookbook.com/</link>
     <atom:link href="http://boulderscookbook.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 23 Dec 2015 18:02:49 -0500</pubDate>
-    <lastBuildDate>Wed, 23 Dec 2015 18:02:49 -0500</lastBuildDate>
+    <pubDate>Wed, 23 Dec 2015 18:10:22 -0500</pubDate>
+    <lastBuildDate>Wed, 23 Dec 2015 18:10:22 -0500</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -18,7 +18,7 @@
 
 &lt;p&gt;Baking time: 15 minutes&lt;/p&gt;
 
-&lt;p&gt;Ingredients:&lt;/p&gt;
+&lt;h3 id=&quot;ingredients&quot;&gt;Ingredients:&lt;/h3&gt;
 
 &lt;p&gt;• 1 package of pita bread (whole wheat is preferred)&lt;/p&gt;
 
@@ -44,7 +44,7 @@
 
 &lt;p&gt;(Note: Jamie Macon’s variation uses 1⁄2 mayonnaise and 1⁄2 Stonewall Kitchen’s BBQ Aioli)&lt;/p&gt;
 
-&lt;p&gt;Directions:&lt;/p&gt;
+&lt;h3 id=&quot;directions&quot;&gt;Directions:&lt;/h3&gt;
 
 &lt;ol&gt;
   &lt;li&gt;
@@ -82,7 +82,7 @@
 
 &lt;p&gt;Preparation time: 15 minutes&lt;/p&gt;
 
-&lt;p&gt;Ingredients:&lt;/p&gt;
+&lt;h3 id=&quot;ingredients&quot;&gt;Ingredients:&lt;/h3&gt;
 
 &lt;p&gt;• 1⁄2 cup extra virgin olive oil (alternative: 1⁄2 extra-virgin and 1⁄2 regular)&lt;/p&gt;
 
@@ -100,7 +100,7 @@
 
 &lt;p&gt;• 1 teaspoon Dijon mustard&lt;/p&gt;
 
-&lt;p&gt;Directions:&lt;/p&gt;
+&lt;h3 id=&quot;directions&quot;&gt;Directions:&lt;/h3&gt;
 
 &lt;ol&gt;
   &lt;li&gt;
@@ -136,7 +136,7 @@
 
 &lt;p&gt;Baking time: 30-45 minutes&lt;/p&gt;
 
-&lt;p&gt;Ingredients:&lt;/p&gt;
+&lt;h3 id=&quot;ingredients&quot;&gt;Ingredients:&lt;/h3&gt;
 
 &lt;p&gt;• 2 pounds veal cutlets&lt;/p&gt;
 
@@ -164,7 +164,7 @@
 
 &lt;p&gt;• 1 tablespoon butter&lt;/p&gt;
 
-&lt;p&gt;Directions:&lt;/p&gt;
+&lt;h3 id=&quot;directions&quot;&gt;Directions:&lt;/h3&gt;
 
 &lt;ol&gt;
   &lt;li&gt;
@@ -211,7 +211,7 @@
 
 &lt;p&gt;Baking time: approximately 2 hours&lt;/p&gt;
 
-&lt;p&gt;Crust ingredients:&lt;/p&gt;
+&lt;h3 id=&quot;crust-ingredients&quot;&gt;Crust ingredients:&lt;/h3&gt;
 
 &lt;p&gt;• 1 1⁄2 cups of all-purpose flour&lt;/p&gt;
 
@@ -225,7 +225,7 @@
 
 &lt;p&gt;• 1⁄3 cup of ice water mixed with 1 tablespoon of distilled white vinegar&lt;/p&gt;
 
-&lt;p&gt;Filling ingredients:&lt;/p&gt;
+&lt;h3 id=&quot;filling-ingredients&quot;&gt;Filling ingredients:&lt;/h3&gt;
 
 &lt;p&gt;• 1⁄2 cup golden raisins&lt;/p&gt;
 
@@ -255,7 +255,7 @@
 
 &lt;p&gt;• Pinch of kosher salt&lt;/p&gt;
 
-&lt;p&gt;Topping ingredients:&lt;/p&gt;
+&lt;h3 id=&quot;topping-ingredients&quot;&gt;Topping ingredients:&lt;/h3&gt;
 
 &lt;p&gt;• 1⁄2 cup all-purpose flour&lt;/p&gt;
 
@@ -273,7 +273,7 @@
 
 &lt;p&gt;• 1 stick of unsalted butter - chilled and cubed&lt;/p&gt;
 
-&lt;p&gt;Tools:&lt;/p&gt;
+&lt;h3 id=&quot;tools&quot;&gt;Tools:&lt;/h3&gt;
 
 &lt;p&gt;• Rolling pin&lt;/p&gt;
 
@@ -281,7 +281,7 @@
 
 &lt;p&gt;• Pie weights&lt;/p&gt;
 
-&lt;p&gt;Directions – crust:&lt;/p&gt;
+&lt;h3 id=&quot;directions--crust&quot;&gt;Directions – crust:&lt;/h3&gt;
 
 &lt;ol&gt;
   &lt;li&gt;
@@ -334,7 +334,7 @@
   &lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;Directions – filling:&lt;/p&gt;
+&lt;h3 id=&quot;directions--filling&quot;&gt;Directions – filling:&lt;/h3&gt;
 
 &lt;ol&gt;
   &lt;li&gt;
@@ -381,7 +381,7 @@
 
 &lt;p&gt;Preparation time: 60 minutes&lt;/p&gt;
 
-&lt;p&gt;Ingredients:&lt;/p&gt;
+&lt;h3 id=&quot;ingredients&quot;&gt;Ingredients:&lt;/h3&gt;
 
 &lt;p&gt;• 1 pound orzo pasta&lt;/p&gt;
 
@@ -397,11 +397,11 @@
 
 &lt;p&gt;• 2 garlic cloves - minced&lt;/p&gt;
 
-&lt;p&gt;Tools:&lt;/p&gt;
+&lt;h3 id=&quot;tools&quot;&gt;Tools:&lt;/h3&gt;
 
 &lt;p&gt;• Large skillet&lt;/p&gt;
 
-&lt;p&gt;Directions:&lt;/p&gt;
+&lt;h3 id=&quot;directions&quot;&gt;Directions:&lt;/h3&gt;
 
 &lt;ol&gt;
   &lt;li&gt;
@@ -445,7 +445,7 @@
 
 &lt;p&gt;“No I don’t ”&lt;/p&gt;
 
-&lt;p&gt;Directions:&lt;/p&gt;
+&lt;h3 id=&quot;directions&quot;&gt;Directions:&lt;/h3&gt;
 
 &lt;ol&gt;
   &lt;li&gt;
@@ -491,7 +491,7 @@
 
 &lt;p&gt;Refrigeration Time: Overnight&lt;/p&gt;
 
-&lt;p&gt;Ingredients:&lt;/p&gt;
+&lt;h3 id=&quot;ingredients&quot;&gt;Ingredients:&lt;/h3&gt;
 
 &lt;p&gt;• 1 head iceberg lettuce - shredded&lt;/p&gt;
 
@@ -507,7 +507,7 @@
 
 &lt;p&gt;• 1 large bottle Ranch dressing&lt;/p&gt;
 
-&lt;p&gt;Tools:&lt;/p&gt;
+&lt;h3 id=&quot;tools&quot;&gt;Tools:&lt;/h3&gt;
 
 &lt;p&gt;• Large mixing bowl&lt;/p&gt;
 
@@ -515,7 +515,7 @@
 
 &lt;p&gt;• Saran Wrap&lt;/p&gt;
 
-&lt;p&gt;Directions:&lt;/p&gt;
+&lt;h3 id=&quot;directions&quot;&gt;Directions:&lt;/h3&gt;
 
 &lt;ol&gt;
   &lt;li&gt;
@@ -566,11 +566,11 @@
 
 &lt;p&gt;• 1 jigger dry sparkling wine&lt;/p&gt;
 
-&lt;p&gt;Tools:&lt;/p&gt;
+&lt;h3 id=&quot;tools&quot;&gt;Tools:&lt;/h3&gt;
 
 &lt;p&gt;• Cocktail shaker&lt;/p&gt;
 
-&lt;p&gt;Directions – simple syrup:&lt;/p&gt;
+&lt;h3 id=&quot;directions--simple-syrup&quot;&gt;Directions – simple syrup:&lt;/h3&gt;
 
 &lt;ol&gt;
   &lt;li&gt;
@@ -596,7 +596,7 @@
   &lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;Directions – cocktail:&lt;/p&gt;
+&lt;h3 id=&quot;directions--cocktail&quot;&gt;Directions – cocktail:&lt;/h3&gt;
 
 &lt;ol&gt;
   &lt;li&gt;In a cocktail shaker:&lt;/li&gt;
@@ -623,7 +623,7 @@
 
 &lt;p&gt;Preparation time: 20 minutes&lt;/p&gt;
 
-&lt;p&gt;Ingredients:&lt;/p&gt;
+&lt;h3 id=&quot;ingredients&quot;&gt;Ingredients:&lt;/h3&gt;
 
 &lt;p&gt;• 1 red onion - slice VERY thinly&lt;/p&gt;
 
@@ -639,7 +639,7 @@
 
 &lt;p&gt;• Black pepper&lt;/p&gt;
 
-&lt;p&gt;Directions:&lt;/p&gt;
+&lt;h3 id=&quot;directions&quot;&gt;Directions:&lt;/h3&gt;
 
 &lt;ol&gt;
   &lt;li&gt;
@@ -668,7 +668,7 @@
 
 &lt;p&gt;Preparation time: 2 hours&lt;/p&gt;
 
-&lt;p&gt;Ingredients:&lt;/p&gt;
+&lt;h3 id=&quot;ingredients&quot;&gt;Ingredients:&lt;/h3&gt;
 
 &lt;p&gt;• 5 pounds whole chicken legs&lt;/p&gt;
 
@@ -708,7 +708,7 @@
 
 &lt;p&gt;• 2 tablespoons Caesar dressing&lt;/p&gt;
 
-&lt;p&gt;Directions:&lt;/p&gt;
+&lt;h3 id=&quot;directions&quot;&gt;Directions:&lt;/h3&gt;
 
 &lt;ol&gt;
   &lt;li&gt;
