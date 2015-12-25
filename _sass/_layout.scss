@@ -193,10 +193,14 @@
     display: block;
     font-size: 24px;
     text-decoration: none;
+    color: $link-blue;
     @include transition(color .25s ease);
     &:hover {
 	    text-decoration: none;
 	    color: $link-hover-orange;
+    }
+    &:active,:visited {
+	    color: $link-blue;
     }
 }
 
