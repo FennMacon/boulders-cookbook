@@ -17,6 +17,8 @@ Refrigeration time: 4 hours
 
 • 1/3 cup melted butter
 
+• 6 eggs
+
 • 4 packages of Philadelphia Cream Cheese (8 ounces each)
 
 • 1 cup sugar plus 3 tablespoons
