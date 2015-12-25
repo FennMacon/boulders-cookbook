@@ -283,7 +283,13 @@ pre {
   display: block;
   font-size: 24px;
   text-decoration: none;
-  font-family: "Oswald", sans-serif; }
+  -webkit-transition: color 0.25s ease;
+  -moz-transition: color 0.25s ease;
+  -o-transition: color 0.25s ease;
+  transition: color 0.25s ease; }
+  .post-link:hover {
+    text-decoration: none;
+    color: #ff5600; }
 
 /**
  * Posts
